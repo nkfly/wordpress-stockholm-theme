@@ -1,0 +1,3094 @@
+# Copyright (C) 2017 Select Themes
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stockholm 4.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/stockholm\n"
+"POT-Creation-Date: 2017-07-18 10:31:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:12
+msgid "Page you are looking is Not Found"
+msgstr ""
+
+#: 404.php:14
+msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site’s homepage and see if you can find what you are looking for."
+msgstr ""
+
+#: 404.php:15
+msgid "Back to homepage"
+msgstr ""
+
+#: comments.php:2
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:2
+msgid " Comment "
+msgstr ""
+
+#: comments.php:2
+msgid " Comments "
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:29
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:42
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:43
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:44
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:45
+msgid "Submit"
+msgstr ""
+
+#: comments.php:46
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:50
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:51
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:52 contact-page.php:131
+msgid "Website"
+msgstr ""
+
+#: contact-page.php:110
+msgid "First Name *"
+msgstr ""
+
+#: contact-page.php:115
+msgid "Last Name *"
+msgstr ""
+
+#: contact-page.php:120 contact-page.php:126
+msgid "Email *"
+msgstr ""
+
+#: contact-page.php:137
+msgid "Message"
+msgstr ""
+
+#: contact-page.php:163
+msgid "Contact Us"
+msgstr ""
+
+#: contact-page.php:213
+msgid "This is a required field"
+msgstr ""
+
+#: contact-page.php:221
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: contact-page.php:251
+msgid "THANK YOU!"
+msgstr ""
+
+#: contact-page.php:251
+msgid "Your email was successfully sent. We will contact you as soon as possible."
+msgstr ""
+
+#: contact-page.php:260
+msgid "Invalid Captcha"
+msgstr ""
+
+#: contact-page.php:265
+msgid "Email server problem"
+msgstr ""
+
+#: extendvc/extend-vc.php:178
+msgid "Content"
+msgstr ""
+
+#: extendvc/extend-vc.php:1446
+msgid "Please insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: extendvc/extend-vc.php:1452
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: extendvc/extend-vc.php:3603 includes/nav_menu/edit_custom_walker.php:205
+#: includes/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:7682
+msgid "Select Elements Holder"
+msgstr ""
+
+#: extendvc/extend-vc.php:7749
+msgid "Select Elements Holder Item"
+msgstr ""
+
+#: framework/lib/qode.layout.php:948 framework/lib/qode.layout.php:986
+#: framework/lib/qode.layout.php:1089 framework/lib/qode.layout.php:1144
+#: framework/lib/qode.layout.php:1254 framework/lib/qode.layout.php:1309
+#: framework/lib/qode.layout.php:1364 framework/lib/qode.layout.php:1419
+#: framework/lib/qode.layout.php:1474 framework/lib/qode.layout.php:1529
+#: framework/modules/woocommerce/admin/meta-boxes/woocommerce-meta-boxes.php:21
+#: includes/shortcodes/shortcode-elements/content-slider/content-slider.php:44
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:85
+#: widgets/call_to_action_widget.php:66 widgets/call_to_action_widget.php:74
+#: widgets/call_to_action_widget.php:115
+msgid "Yes"
+msgstr ""
+
+#: framework/lib/qode.layout.php:950 framework/lib/qode.layout.php:988
+#: framework/lib/qode.layout.php:1091 framework/lib/qode.layout.php:1146
+#: framework/lib/qode.layout.php:1256 framework/lib/qode.layout.php:1311
+#: framework/lib/qode.layout.php:1366 framework/lib/qode.layout.php:1421
+#: framework/lib/qode.layout.php:1476 framework/lib/qode.layout.php:1531
+#: framework/modules/woocommerce/admin/meta-boxes/woocommerce-meta-boxes.php:20
+#: includes/shortcodes/shortcode-elements/content-slider/content-slider.php:43
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:84
+#: widgets/call_to_action_widget.php:67 widgets/call_to_action_widget.php:75
+#: widgets/call_to_action_widget.php:116
+msgid "No"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1034
+msgid "On"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1036
+msgid "Off"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1199
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:44
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:44
+msgid "Image"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1201
+msgid "Video"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2810
+msgid "You have successfully connected with your Twitter account. If you have any issues fetching data from Twitter try reconnecting."
+msgstr ""
+
+#: framework/lib/qode.layout.php:2816
+msgid "Re-connect with Twitter"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2816 framework/lib/qode.layout.php:2826
+msgid "Connect with Twitter"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2828
+msgid "Connecting with Twitter will enable you to show your latest tweets on your site"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2861
+msgid "You have successfully connected with your Instagram account. If you have any issues fetching data from Instagram try reconnecting."
+msgstr ""
+
+#: framework/lib/qode.layout.php:2867
+msgid "Re-connect with Instagram"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2867 framework/lib/qode.layout.php:2878
+msgid "Connect with Instagram"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2880
+msgid "Connecting with Instagram will enable you to show your latest photos on your site"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2892
+msgid "Disconnect from Instagram"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:15
+msgid "No contact forms found"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:21
+#: framework/modules/popup/options-map/map.php:28
+msgid "Pop-up"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:40
+msgid "Enable Pop-up"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:64
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:76
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:50
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:50
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:101
+#: vc_templates/vc_text_separator.php:4
+msgid "Title"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:65
+msgid "Enter title pop-up window"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:73
+msgid "Subtitle"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:74
+msgid "Enter subtitle pop-up window"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:82
+msgid "Select Contact Form"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:83
+msgid "Choose contact form to display in popup window"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:94
+msgid "Contact Form Style"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:95
+msgid "Choose style defined in Contact Form 7 option tab"
+msgstr ""
+
+#: framework/modules/popup/options-map/map.php:99
+msgid "Custom Style 1"
+msgstr ""
+
+#: framework/modules/widgets/lib/widget-class.php:84
+msgid "There are no options for this widget."
+msgstr ""
+
+#: framework/modules/widgets/popup-opener/popup-opener.php:6
+msgid "Select Pop-up Opener"
+msgstr ""
+
+#: framework/modules/widgets/popup-opener/popup-opener.php:18
+msgid "Pop-up Opener Text"
+msgstr ""
+
+#: framework/modules/widgets/popup-opener/popup-opener.php:19
+msgid "Enter text for pop-up opener"
+msgstr ""
+
+#: framework/modules/widgets/popup-opener/popup-opener.php:24
+msgid "Pop-up Opener Color"
+msgstr ""
+
+#: framework/modules/widgets/popup-opener/popup-opener.php:25
+msgid "Define color for pop-up opener"
+msgstr ""
+
+#: framework/modules/widgets/widgets-functions.php:15
+msgid "Initially closed sub-levels"
+msgstr ""
+
+#: framework/modules/woocommerce/admin/meta-boxes/woocommerce-meta-boxes.php:8
+msgid "Product Meta"
+msgstr ""
+
+#: framework/modules/woocommerce/admin/meta-boxes/woocommerce-meta-boxes.php:16
+msgid "Enable New Product Mark"
+msgstr ""
+
+#: framework/modules/woocommerce/admin/meta-boxes/woocommerce-meta-boxes.php:17
+msgid "Enabling this option will show new product mark on your product elegant lists"
+msgstr ""
+
+#: framework/modules/woocommerce/plugins/yith-quick-view/yith-quick-view-functions.php:16
+msgid "QUICK LOOK"
+msgstr ""
+
+#: framework/modules/woocommerce/plugins/yith-wishlist/widgets/yith-wishlist.php:7
+msgid "Select Woocommerce Wishlist"
+msgstr ""
+
+#: framework/modules/woocommerce/plugins/yith-wishlist/widgets/yith-wishlist.php:8
+msgid "Display a wishlist icon with number of products that are in the wishlist"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:21
+msgid "Product List Elegant"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:25
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:25
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:39
+#: includes/shortcodes/shortcode-elements/content-slider/content-slide.php:25
+#: includes/shortcodes/shortcode-elements/content-slider/content-slider.php:24
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:39
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:39
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:39
+#: includes/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:22
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:39
+msgid "by SELECT"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:26
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:26
+msgid "by SELECT SHOP"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:33
+msgid "Product Info Position"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:35
+msgid "Info On Image Hover"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:36
+msgid "Info Below Image"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:43
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:33
+msgid "Number of Products"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:48
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:62
+msgid "Number of Columns"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:50
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:100
+msgid "One"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:51
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:101
+msgid "Two"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:52
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:102
+msgid "Three"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:53
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:103
+msgid "Four"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:54
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:104
+msgid "Five"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:55
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:105
+msgid "Six"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:62
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:38
+msgid "Space Between Items"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:64
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:150
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:89
+msgid "Large"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:65
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:40
+#: widgets/call_to_action_widget.php:97
+msgid "Normal"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:66
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:41
+msgid "Small"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:67
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:42
+msgid "Tiny"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:68
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:43
+msgid "No Space"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:75
+msgid "Show Ordering Filter"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:81
+msgid "Price range for pricing filter"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:87
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:50
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:72
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:97
+msgid "Order By"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:95
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:57
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:83
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:108
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:103
+msgid "Show Category Filter"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:109
+msgid "Enter Category Values"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:110
+msgid "Separate values (category slugs) with a comma"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:116
+msgid "Show \"All\" Item in Filter"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:123
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:64
+msgid "Choose Sorting Taxonomy"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:125
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:66
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:93
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:118
+msgid "Category"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:126
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:67
+msgid "Tag"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:127
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:68
+msgid "Id"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:129
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:70
+msgid "If you would like to display only certain products, this is where you can select the criteria by which you would like to choose which products to display"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:135
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:75
+msgid "Enter Taxonomy Values"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:136
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:76
+msgid "Separate values (category slugs, tags, or post IDs) with a comma"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:142
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:80
+msgid "Image Proportions"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:144
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:168
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:243
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:565
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:83
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:97
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:97
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:75
+msgid "Default"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:145
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:84
+msgid "Original"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:146
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:85
+msgid "Square"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:147
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:86
+msgid "Landscape"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:148
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:87
+msgid "Portrait"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:149
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:88
+msgid "Medium"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:151
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:90
+msgid "Shop Catalog"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:152
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:91
+msgid "Shop Single"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:153
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:92
+msgid "Shop Thumbnail"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:159
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:151
+msgid "Display Title"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:161
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:207
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:214
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:229
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:236
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:153
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:176
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:183
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:198
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:205
+msgid "Product Info"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:166
+msgid "Product Info Skin"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:169
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:180
+msgid "Light"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:170
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:181
+msgid "Dark"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:173
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:184
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:192
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:200
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:222
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:249
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:256
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:161
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:169
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:191
+msgid "Product Info Style"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:178
+msgid "Product Info Hover Background Skin"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:189
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:158
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:56
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:56
+msgid "Title Tag"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:197
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:166
+msgid "Title Text Transform"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:205
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:174
+msgid "Display Category"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:212
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:181
+msgid "Display Excerpt"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:219
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:188
+msgid "Excerpt Length"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:220
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:189
+msgid "Number of characters"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:227
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:196
+msgid "Display Rating"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:234
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:203
+msgid "Display Price"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:241
+msgid "Product Info Text Alignment"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:244
+msgid "Left"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:245
+msgid "Center"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:246
+msgid "Right"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:254
+msgid "Product Info Bottom Margin (px)"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:535
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:598
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter-without-dot.php:11
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter-without-dot.php:13
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter.php:11
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/filter.php:13
+#: templates/blog/masonry-filter.php:40
+msgid "All"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:566
+msgid "Popularity"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:567
+msgid "Average rating"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:568
+msgid "Newness"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:569
+msgid "Price: Low to High"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:570
+msgid "Price: High to Low"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/templates/parts/categories-filter.php:3
+msgid "Categories"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/templates/parts/ordering-filter.php:3
+msgid "Filter"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/templates/parts/ordering-filter.php:6
+msgid "Sort By"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/templates/parts/ordering-filter.php:12
+msgid "Price Range"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list/templates/product-list-standard.php:6
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/show-more.php:5
+msgid "Loading..."
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:21
+msgid "Product List Elegant - Carousel"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:98
+msgid "Number Of Visible Items"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:108
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:116
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:124
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:131
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:138
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:146
+msgid "Slider Settings"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:113
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:121
+msgid "Enable Slider Autoplay"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:129
+msgid "Slider Speed"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:130
+msgid "Default value is 5000 (ms)"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:136
+msgid "Slider Slide Animation"
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:137
+msgid "Speed of slide animation in milliseconds. Default value is 600."
+msgstr ""
+
+#: framework/modules/woocommerce/shortcodes/product-list-carousel/product-list-carousel.php:143
+msgid "Enable Slider Navigation Arrows"
+msgstr ""
+
+#: framework/modules/woocommerce/templates/parts/image.php:15
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:78
+msgid "NEW"
+msgstr ""
+
+#: framework/modules/woocommerce/templates/parts/image.php:23
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:57
+msgid "SOLD"
+msgstr ""
+
+#: framework/modules/woocommerce/templates/parts/no-posts.php:1
+#: framework/modules/woocommerce/woocommerce-functions.php:140
+msgid "No products were found!"
+msgstr ""
+
+#: framework/modules/woocommerce/templates/parts/rating.php:9
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:9
+msgid "Woocommerce Dropdown Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:85
+msgid "No products in the cart."
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:95
+msgid "Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:97
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart-totals.php:93
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:132
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Total"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:69
+#: framework/modules/woocommerce/woocommerce-config.php:82
+msgid "First name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:70
+#: framework/modules/woocommerce/woocommerce-config.php:83
+msgid "Last name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:71
+#: framework/modules/woocommerce/woocommerce-config.php:84
+msgid "Company name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:72
+#: framework/modules/woocommerce/woocommerce-config.php:85
+msgid "Address"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:73
+#: woocommerce/myaccount/form-login.php:92
+msgid "Email"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:74
+msgid "Phone"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:75
+#: framework/modules/woocommerce/woocommerce-config.php:86
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:76
+msgid "Town / City"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:77
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / County"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-config.php:219
+msgid "Share:"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-functions.php:89
+msgid "SALE"
+msgstr ""
+
+#: framework/qode-framework.php:172 framework/qode-framework.php:286
+msgid "Save Changes"
+msgstr ""
+
+#: framework/qode-framework.php:472
+#: includes/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions.php:556
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:563
+msgid "Fullscreen Navigation"
+msgstr ""
+
+#: functions.php:570
+msgid "Left Top Navigation"
+msgstr ""
+
+#: functions.php:576
+msgid "Right Top Navigation"
+msgstr ""
+
+#: functions.php:1593
+msgid "READ MORE"
+msgstr ""
+
+#: functions.php:1722
+msgid ""
+"Note that writing permissions aren't set for folders containing css and js files on your server.\n"
+"\t\t\t\t\tWe recommend setting writing permissions in order to optimize your site performance.\n"
+"\t\t\t\t\tFor further instructions, please refer to our <a target=\"_blank\" href=\"http://demo.select-themes.com/stockholm-help/#!/getting_started\">documentation</a>."
+msgstr ""
+
+#: header.php:324 title.php:299
+msgid "Search"
+msgstr ""
+
+#: header.php:696
+msgid "Type in what you're looking for"
+msgstr ""
+
+#: includes/comment/comment.php:13
+msgid "at"
+msgstr ""
+
+#: includes/comment/comment.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:143
+#: includes/import/class.wordpress-importer.php:194
+#: includes/import/class.wordpress-importer.php:198
+#: includes/import/class.wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:199
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:215
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:240
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:267
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:269
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:374
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:426
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:470
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:520
+#: includes/import/class.wordpress-importer.php:744
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:610
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:647
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:709
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:875
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:882
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:945
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:958
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1002
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1008
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1015
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1020
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1026
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1127
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1134
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1149
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1150
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/import/parsers.php:42 includes/import/parsers.php:72
+#: includes/import/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/import/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/import/parsers.php:84 includes/import/parsers.php:89
+#: includes/import/parsers.php:279 includes/import/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/import/qode-import.php:41 includes/import/qode-import.php:59
+msgid "Content imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:56
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: includes/import/qode-import.php:72
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:91
+msgid "Custom sidebars imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:97
+msgid "Options imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:131
+msgid "File doesn't exist"
+msgstr ""
+
+#: includes/import/qode-import.php:182
+msgid "Stockholm — One-Click Import"
+msgstr ""
+
+#: includes/import/qode-import.php:189
+msgid "Import"
+msgstr ""
+
+#: includes/import/qode-import.php:260
+msgid "Import attachments"
+msgstr ""
+
+#: includes/import/qode-import.php:287
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: includes/import/qode-import.php:298
+msgid "Important notes:"
+msgstr ""
+
+#: includes/import/qode-import.php:300
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: includes/import/qode-import.php:301
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+
+#: includes/nav_menu/edit_custom_walker.php:78
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+
+#: includes/nav_menu/edit_custom_walker.php:82
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:106
+msgid "Move up"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:119
+msgid "Move down"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:121
+#: includes/nav_menu/edit_custom_walker.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:132
+msgid "URL"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:139
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:145
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:152
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:157
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:163
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:169
+msgid "Description"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:171
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:179
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:190
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:200
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:215
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:225
+msgid "Icon"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:237
+msgid "Only with \"wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:244
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:260
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:269
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:282
+msgid "Remove"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:283
+#: woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:334
+#: includes/plugins/plugins-activation.php:105
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:335
+#: includes/plugins/plugins-activation.php:106
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:337
+#: includes/plugins/plugins-activation.php:107
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:340
+#: includes/plugins/plugins-activation.php:108
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: includes/plugins/class-tgm-plugin-activation.php:377
+#: includes/plugins/plugins-activation.php:117
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:392
+#: includes/plugins/plugins-activation.php:119
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:393
+#: includes/plugins/class-tgm-plugin-activation.php:912
+#: includes/plugins/class-tgm-plugin-activation.php:2618
+#: includes/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:394
+#: includes/plugins/class-tgm-plugin-activation.php:3244
+#: includes/plugins/plugins-activation.php:120
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:395
+#: includes/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: includes/plugins/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1019
+#: includes/plugins/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1206
+#: includes/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: includes/plugins/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: includes/plugins/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2639
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: includes/plugins/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: includes/plugins/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: includes/plugins/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3594
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3594
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:13
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:23
+msgid "LayerSlider WP"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:33
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:43
+msgid "Envato Wordpress Toolkit"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:53
+msgid "Select Instagram Feed"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:63
+msgid "Select Twitter Feed"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:73
+msgid "Select Restaurant"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:83
+msgid "Select Membership"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:109
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:110
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:111
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:112
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:113
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:114
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:115
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:116
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:118
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:121
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:45
+msgid "Search results for"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:110
+msgid "Posts tagged"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:115
+msgid "Articles posted by "
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:118
+msgid "Error 404"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:128
+msgid "Page"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:19
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:20
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:21
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:22
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:36
+msgid "Testimonials"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:37
+msgid "Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:38
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:39
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:40
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:56
+#: includes/qode-custom-post-types.php:57
+msgid "Select Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:58
+msgid "Slides"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:59
+#: includes/qode-custom-post-types.php:62
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:60
+msgid "Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:61
+msgid "New Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:63
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:80
+#: includes/qode-custom-post-types.php:81
+msgid "Select Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:82
+msgid "Carousel Items"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:83
+#: includes/qode-custom-post-types.php:86
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:84
+msgid "Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:85
+msgid "New Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:87
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:104
+#: includes/qode-custom-post-types.php:114
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:105
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:106
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:107
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:108
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:109
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:110
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:111
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:112
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:113
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:129
+#: includes/qode-custom-post-types.php:139
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:130
+msgid "Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:131
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:132
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:133
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:134
+msgid "Parent Portfolio Tags:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:135
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:136
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:137
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:138
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:153
+#: includes/qode-custom-post-types.php:163
+msgid "Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:154
+msgid "Testimonial Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:155
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:156
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:157
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:158
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:159
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:160
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:161
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:162
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:180
+#: includes/qode-custom-post-types.php:190
+msgid "Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:181
+msgid "Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:182
+msgid "Search Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:183
+msgid "All Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:184
+msgid "Parent Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:185
+msgid "Parent Slider:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:186
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:187
+msgid "Update Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:188
+msgid "Add New Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:189
+msgid "New Slider Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:207
+#: includes/qode-custom-post-types.php:217
+msgid "Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:208
+msgid "Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:209
+msgid "Search Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:210
+msgid "All Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:211
+msgid "Parent Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:212
+msgid "Parent Carousel:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:213
+msgid "Edit Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:214
+msgid "Update Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:215
+msgid "Add New Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:216
+msgid "New Carousel Name"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:10
+msgid "Effect on header (dark/light style)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:21
+msgid "Parallax effect"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:32
+msgid "Slider shortcode"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:36
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:66
+msgid "Name"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:67
+msgid "Shortcode"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:69
+msgid "Slug"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:70
+msgid "Posts"
+msgstr ""
+
+#: includes/qode-like.php:110 includes/qode-like.php:122
+#: includes/qode-like.php:134
+msgid "Like this"
+msgstr ""
+
+#: includes/qode-like.php:113
+msgid "You already liked this!"
+msgstr ""
+
+#: includes/qode-like.php:125 includes/qode-like.php:137
+msgid "You already like this!"
+msgstr ""
+
+#: includes/qode-product-list.php:112
+msgid "Options"
+msgstr ""
+
+#: includes/qode-product-list.php:137 woocommerce/loop/add-to-cart.php:26
+msgid "Out of stock"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:37
+msgid "Centered Portfolio Carousel"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:65
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:90
+msgid "Number"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:67
+msgid "Number of portfolios on page (Leave empty for all)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:68
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:79
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:89
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:96
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:103
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:93
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:104
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:114
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:121
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:128
+msgid "Build Query "
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:75
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:100
+#: templates/portfolio/parts/portfolio-date.php:12
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:86
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:111
+msgid "DESC"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:87
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:112
+msgid "ASC"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:95
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:120
+msgid "Category Slug (leave empty for all)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:100
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:125
+msgid "Selected Posts"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/centered-portfolio-carousel/centered-portfolio-carousel.php:102
+msgid "Selected Portfolios (leave empty for all, delimit by comma)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/content-slider/content-slide.php:21
+msgid "Content Slide"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/content-slider/content-slider.php:21
+msgid "Content Slider"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/content-slider/content-slider.php:31
+msgid "Animation speed"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/content-slider/content-slider.php:35
+msgid "Speed of slide animation in miliseconds"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/content-slider/content-slider.php:39
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:37
+msgid "Google Map"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:45
+msgid "Address 1"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:50
+msgid "Address 2"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:56
+msgid "Address 3"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:62
+msgid "Address 4"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:68
+msgid "Address 5"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:74
+msgid "Predefined Map Style"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:76
+msgid "Enabling this option will set our predefined map style"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:81
+msgid "Custom Map Style"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:83
+msgid "Enabling this option will allow Map editing"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:89
+msgid "Color Overlay"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:90
+msgid "Choose a Map color overlay"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:96
+msgid "Saturation"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:97
+msgid "Choose a level of saturation (-100 = least saturated, 100 = most saturated)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:103
+msgid "Lightness"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:104
+msgid "Choose a level of lightness (-100 = darkest, 100 = lightest)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:110
+msgid "Pin"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:111
+msgid "Select a pin image to be used on Google Map"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:116
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:117
+msgid "Enter a zoom factor for Google Map (0 = whole worlds, 19 = individual buildings)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:122
+msgid "Zoom Map on Mouse Wheel"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:124
+msgid "Enabling this option will allow users to zoom in on Map using mouse wheel"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/google-map/google-map.php:129
+msgid "Map Height"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:37
+msgid "Image With Overlapping Info"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:69
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:69
+msgid "Text"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:74
+msgid "Link"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:79
+msgid "Target"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:82
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:82
+msgid "Self"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:83
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:83
+msgid "Blank"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:89
+msgid "Link Text"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:94
+msgid "Link Hover Animation"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/image-with-overlapping-info/image-with-overlapping-info.php:98
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:76
+msgid "Display Dash"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:37
+msgid "Interactive Image"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:74
+msgid "Button Link"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:79
+msgid "Button Target"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:89
+msgid "Button Text"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:94
+msgid "Button Style"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:98
+msgid "White"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:99
+msgid "Underlined"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/interactive-image/interactive-image.php:104
+msgid "Set as active"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/latest-posts.php:149
+#: includes/shortcodes/shortcode-elements/latest-posts.php:174
+#: includes/shortcodes/shortcode-elements/latest-posts.php:189
+#: templates/blog/blog_animated-loop.php:59
+#: templates/blog/blog_animated-loop.php:89
+#: templates/blog/blog_animated-loop.php:119
+#: templates/blog/blog_animated-loop.php:149
+#: templates/blog/blog_animated-loop.php:179
+#: templates/blog/blog_animated-loop.php:209
+#: templates/blog/blog_centered-loop.php:72
+#: templates/blog/blog_centered-loop.php:132
+#: templates/blog/blog_centered-loop.php:206
+#: templates/blog/blog_centered-loop.php:261
+#: templates/blog/blog_centered-loop.php:310
+#: templates/blog/blog_centered-loop.php:364
+#: templates/blog/blog_chequered-loop.php:64
+#: templates/blog/blog_chequered-loop.php:98
+#: templates/blog/blog_chequered-loop.php:132
+#: templates/blog/blog_chequered-loop.php:211
+#: templates/blog/blog_large_image-loop.php:73
+#: templates/blog/blog_large_image-loop.php:134
+#: templates/blog/blog_large_image-loop.php:209
+#: templates/blog/blog_large_image-loop.php:270
+#: templates/blog/blog_large_image-loop.php:321
+#: templates/blog/blog_large_image-loop.php:383
+#: templates/blog/blog_large_image_whole_post-loop.php:63
+#: templates/blog/blog_large_image_whole_post-loop.php:116
+#: templates/blog/blog_large_image_whole_post-loop.php:164
+#: templates/blog/blog_large_image_whole_post-loop.php:233
+#: templates/blog/blog_large_image_whole_post-loop.php:288
+#: templates/blog/blog_large_image_whole_post-loop.php:346
+#: templates/blog/blog_masonry-loop.php:68
+#: templates/blog/blog_masonry-loop.php:104
+#: templates/blog/blog_masonry-loop.php:132
+#: templates/blog/blog_masonry-loop.php:185
+#: templates/blog/blog_masonry-loop.php:215
+#: templates/blog/blog_masonry-loop.php:256
+#: templates/blog/blog_pinterest-loop.php:71
+#: templates/blog/blog_pinterest-loop.php:124
+#: templates/blog/blog_pinterest-loop.php:164
+#: templates/blog/blog_pinterest-loop.php:226
+#: templates/blog/blog_pinterest-loop.php:269
+#: templates/blog/blog_pinterest-loop.php:319
+#: templates/blog/blog_search-loop.php:33
+#: templates/blog/blog_single-loop.php:85
+#: templates/blog/blog_single-loop.php:134
+#: templates/blog/blog_single-loop.php:180
+#: templates/blog/blog_single-loop.php:245
+#: templates/blog/blog_single-loop.php:297
+#: templates/blog/blog_single-loop.php:352
+msgid "By"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:19
+msgid "Parallax Holder"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:28
+msgid "Y Axis Translation"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/parallax-holder/parallax-holder.php:32
+msgid "Enter the value in pixels. Negative value changes parallax direction."
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/categories-with-comma.php:5
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/categories.php:5
+#: includes/shortcodes/shortcode-elements/portfolio-slider.php:128
+msgid "In "
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/posts-not-found.php:1
+#: includes/shortcodes/shortcode-elements/portfolio-slider.php:163
+#: includes/shortcodes/shortcode-elements/qode-carousel.php:144
+#: includes/shortcodes/shortcode-elements/qode-carousel.php:239
+#: includes/shortcodes/shortcode-elements/qode-slider.php:596
+#: includes/shortcodes/shortcode-elements/testimonials.php:132
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/portfolio-list/templates/parts/show-more.php:4
+#: templates/blog/blog-structure.php:132 templates/blog/blog-structure.php:136
+msgid "Show more"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/qode-slider.php:571
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:37
+msgid "Simple Blog List"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:44
+msgid "Posts Title Tag"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:72
+msgid "Read More Hover Animation"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:81
+msgid "Enable Blog List Animation"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:92
+msgid "Number of blog posts on page (Leave empty for all)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/simple-blog-list/simple-blog-list.php:127
+msgid "Selected Posts (leave empty for all, delimit by comma)"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/simple-blog-list/templates/simple-blog-list-template.php:18
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share-list.php:29
+#: includes/shortcodes/shortcode-elements/social-share-list.php:32
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share-list.php:57
+#: includes/shortcodes/shortcode-elements/social-share-list.php:60
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share-list.php:78
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share-list.php:95
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share-list.php:112
+msgid "Share on Tumblr"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share-list.php:130
+msgid "Share on Pinterest"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share-list.php:148
+msgid "Share on VK"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:32
+msgid "Share"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:53
+msgid "Facebook"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:71
+msgid "Twitter"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:83
+msgid "Google+"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:95
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:107
+msgid "Tumblr"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:120
+msgid "Pinterest"
+msgstr ""
+
+#: includes/shortcodes/shortcode-elements/social-share.php:133
+msgid "VK"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:42
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:43
+msgid "Add Widget Area"
+msgstr ""
+
+#: js/default_dynamic.php:20
+msgid "Comment has been sent!"
+msgstr ""
+
+#: js/default_dynamic.php:105
+msgid "Loading new posts..."
+msgstr ""
+
+#: js/default_dynamic.php:107
+msgid "No more posts"
+msgstr ""
+
+#: search.php:42 search.php:61 search.php:89
+#: templates/blog/blog-structure.php:124
+msgid "No posts were found."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search Here"
+msgstr ""
+
+#: templates/blog/blog_centered-loop.php:66
+#: templates/blog/blog_centered-loop.php:126
+#: templates/blog/blog_centered-loop.php:200
+#: templates/blog/blog_centered-loop.php:255
+#: templates/blog/blog_centered-loop.php:302
+#: templates/blog/blog_centered-loop.php:358
+#: templates/blog/blog_large_image-loop.php:68
+#: templates/blog/blog_large_image-loop.php:129
+#: templates/blog/blog_large_image-loop.php:204
+#: templates/blog/blog_large_image-loop.php:265
+#: templates/blog/blog_large_image-loop.php:316
+#: templates/blog/blog_large_image-loop.php:378
+#: templates/blog/blog_large_image_whole_post-loop.php:58
+#: templates/blog/blog_large_image_whole_post-loop.php:111
+#: templates/blog/blog_large_image_whole_post-loop.php:159
+#: templates/blog/blog_large_image_whole_post-loop.php:228
+#: templates/blog/blog_large_image_whole_post-loop.php:283
+#: templates/blog/blog_large_image_whole_post-loop.php:341
+#: templates/blog/blog_pinterest-loop.php:56
+#: templates/blog/blog_pinterest-loop.php:109
+#: templates/blog/blog_pinterest-loop.php:206
+#: templates/blog/blog_pinterest-loop.php:304
+#: templates/blog/blog_search-loop.php:27
+#: templates/blog/blog_single-loop.php:79
+#: templates/blog/blog_single-loop.php:128
+#: templates/blog/blog_single-loop.php:174
+#: templates/blog/blog_single-loop.php:239
+#: templates/blog/blog_single-loop.php:291
+#: templates/blog/blog_single-loop.php:346
+msgid "In"
+msgstr ""
+
+#: templates/blog/blog_centered-loop.php:85
+#: templates/blog/blog_centered-loop.php:145
+#: templates/blog/blog_centered-loop.php:219
+#: templates/blog/blog_centered-loop.php:377
+msgid "Continue Reading"
+msgstr ""
+
+#: templates/blog/blog_centered-loop.php:120
+#: templates/blog/blog_large_image-loop.php:119
+#: templates/blog/blog_large_image_whole_post-loop.php:101
+#: templates/blog/blog_masonry-loop.php:83
+#: templates/blog/blog_pinterest-loop.php:101
+#: templates/blog/blog_single-loop.php:114
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: templates/blog/blog_single-loop.php:379
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog/masonry-filter.php:39
+msgid "Sort Blog:"
+msgstr ""
+
+#: templates/portfolio/parts/portfolio-categories.php:20
+msgid "Category "
+msgstr ""
+
+#: templates/portfolio/parts/portfolio-tags.php:13
+msgid "Tags"
+msgstr ""
+
+#: title.php:293
+msgid "Author:"
+msgstr ""
+
+#: title.php:304
+msgid "404 - Page not found"
+msgstr ""
+
+#: title.php:316
+msgid "Archive"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Accordion Title"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:35 vc_templates/vc_tab.php:9
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:68
+msgid "Previous slide"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:68
+msgid "Next slide"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:8
+msgid "Call to Action Widget"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:64
+msgid "Full Width:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:72
+msgid "Content In Grid:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:80
+msgid "Text:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:85
+msgid "Text Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:90
+msgid "Text Size:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:95
+msgid "Type:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:98
+msgid "With Icon"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:103
+msgid "Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:108
+msgid "Border Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:113
+msgid "Show Button:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:121
+msgid "Button Link:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:126
+msgid "Button Text:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:131
+msgid "Button Target:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:141
+msgid "Button Text Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:146
+msgid "Button Hover Text Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:151
+msgid "Button Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:156
+msgid "Button Hover Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:161
+msgid "Button Border Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:166
+msgid "Button Hover Border Color:"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:38
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:109
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:115
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:104
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150 woocommerce/checkout/form-coupon.php:38
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:155
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:34
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:41
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:59
+#: woocommerce/cart/shipping-calculator.php:78
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:66
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:100
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:37
+msgid "Coupon Code"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34 woocommerce/myaccount/my-orders.php:75
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:104
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53 woocommerce/checkout/thankyou.php:58
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:64
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:72 woocommerce/checkout/thankyou.php:80
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39 woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:42 woocommerce/myaccount/form-login.php:49
+#: woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:54 woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#. translators: %d: total results
+
+#: woocommerce/loop/result-count.php:41
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+
+#: woocommerce/loop/result-count.php:44
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/sale-flash.php:29
+#: woocommerce/single-product/sale-flash.php:28
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:112
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:106
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:34
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:29
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:32
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:44
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:56
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:75
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:55
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+
+#: woocommerce/myaccount/my-orders.php:67
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:79
+msgid "View"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+#: woocommerce/single-product/meta.php:54
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+#: woocommerce/single-product/meta.php:54
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+#: woocommerce/single-product/meta.php:58
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:38
+#: woocommerce/single-product/meta.php:60
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:30
+#: woocommerce/single-product/related.php:81
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:28
+msgid "You may also like&hellip;"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Stockholm"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.select-themes.com/stockholm"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Stockholm Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Select Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://demo.select-themes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Animated"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Centered"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Chequered"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Large Image Whole Post"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Large Image"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Masonry Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Masonry"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Pinterest Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Screen Sections"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Landing Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "WooCommerce"
+msgstr ""
