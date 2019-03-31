@@ -40,12 +40,16 @@ if (!function_exists('latest_post')) {
 		//get proper number of posts based on type param
 		$posts_number =$type != 'boxes' ? $number_of_posts : $number_of_columns*$number_of_rows;
 
+		$current_page = get_query_var( 'page' ) ? (int) get_query_var( 'page' ) : 1;
+
 		//run query to get posts
 		$q = new WP_Query(array(
 			'orderby' => $order_by,
 			'order' => $order,
 			'posts_per_page' => $posts_number,
-			'category_name' => $category
+			'category_name' => $category,
+			'page' => $current_page,
+			'offset' => ($current_page - 1) * $posts_number
 		));
 
 		//get number of columns class for boxes type
@@ -196,7 +200,30 @@ if (!function_exists('latest_post')) {
 		endwhile;
 		wp_reset_query();
 
-		$html .= "</ul></div>";
+		$prev_page = $current_page - 1 >= 1 ? $current_page - 1 : 1;
+		$next_page = $current_page + 1 <= $q->max_num_pages ? $current_page + 1 : $q->max_num_pages;
+		$radius = 2;
+		$index = $current_page - $radius;
+		$html .= "</ul>";
+		$html .= '<div class="pagination"><ul>';
+		$html .= '<li class="previous"><a href="'.home_url( add_query_arg( array('page' => $prev_page), null )) . '"><span class="arrow_carrot-left"></span></a></li>';
+		while ($index <= $current_page + $radius) {
+			if ($index < 1 || $index > $q->max_num_pages) {
+				$index++;
+				continue;
+			}
+
+			if ($index == $current_page) {
+				$html .= '<li><a style="color: black;" href="'.home_url( add_query_arg( array('page' => $index), null )) . '">'.$index.'</a></li>';
+			} else {
+				$html .= '<li><a href="'.home_url( add_query_arg( array('page' => $index), null )) . '">'.$index.'</a></li>';
+			}
+
+			$index++;
+		}
+		$html .= '<li style="position: initial;" class="next"><a href="'.home_url( add_query_arg( array('page' => $next_page), null )) . '"><span class="arrow_carrot-right"></span></a></li>';
+	  $html .= '</ul></div></div>';
+
 		return $html;
 	}
 
